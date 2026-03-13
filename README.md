@@ -19,4 +19,3 @@ Analysis of 100,000 Amazon orders across 5 countries generating $91.83M in reven
 - `sales_analysis.ipynb` — Python analysis
 - `Amazon.csv` — Raw dataset
 - `dashboard.pdf` — Power BI dashboard
-- 
